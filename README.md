@@ -112,7 +112,3 @@ Built as part of my transition into backend Python development, focusing on LLM 
 
 ---
 
-## Author
-
-**Ashray Sikka** — Backend Developer (Python · MySQL · PostgreSQL)
-[LinkedIn](https://www.linkedin.com/in/ashraysikka) · [GitHub](https://github.com/AshraySikka)
